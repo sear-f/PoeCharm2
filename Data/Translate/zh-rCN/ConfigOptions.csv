@@ -505,6 +505,9 @@ Are you Leeching Mana?,^xFFFFFF你在【偷取^x7070FF魔力^7】?
 Minion is Leeching Energy Shield?,^xFFFFFF召唤物在【偷取^x88FFFF能量护盾^7】?
 Do you have a Flask active?,你在【使用药剂】?
 "This is automatically enabled if you have a flask active,","如果有使用药剂将会自动启用此状态,"
+Used an Amethyst Flask recently?,你最近有使用紫晶药剂?
+Used a Sapphire Flask recently?,你最近有使用蓝玉药剂?
+Used a Topaz Flask recently?,你最近有使用黄玉药剂?
 Do you have a Tincture active?,你在【使用酊剂】？
 "This is automatically enabled if you have a tincture active,","如果有使用酊剂将会自动启用此状态,"
 Mana Burn Stacks:,魔力燃烧叠层:
@@ -729,7 +732,7 @@ Custom PvP Damage multiplier percent:,Custom PvP Damage multiplier percent:
 "This multiplies the damage of a given skill in pvp, for instance any with damage multiplier specific to pvp (from skill or support or item like sire of shards)","This multiplies the damage of a given skill in pvp, for instance any with damage multiplier specific to pvp (from skill or support or item like sire of shards)"
 Have Acceleration Shrine?,你有【迅速神龛】？
 This will enable the Acceleration Shrine buff.,这将启用【迅速神龛】增益。
-	15% increased Action Speed,	行动速度加快 15%
+	50% increased Action Speed,	行动速度加快 50%
 	80% increased Projectile Speed,	投射物速度加快 80%
 Have Brutal Shrine?,你有【狂击神龛】？
 This will enable the Brutal Shrine buff.,这将启用【狂击神龛】增益。
@@ -751,6 +754,18 @@ Have Gloom Shrine?,你有【隐忍神龛】？
 This will enable the Gloom Shrine buff.,这将启用【隐忍神龛】增益。
 	Gain 10% of Non-Chaos Damage as extra Chaos Damage,	^7获得额外^xD02090混沌^7伤害，其数值等同于非^xD02090混沌^7伤害的 10%
 "	Enemies you Kill have a 40% chance to Explode, dealing a quarter of their maximum Life as Chaos Damage","	^7你击败的敌人有 40% 的几率爆炸，造成等同该敌人最大^xE05030生命^7四分之一的^xD02090混沌^7伤害"
+Have Greater Freezing Shrine?,你有【高等霜寒神龛】？
+This will enable the Greater Freezing Shrine buff.,这将启用【高等霜寒神龛】增益。
+	Gain 30% of Physical Damage as Extra Cold Damage,	^7获得额外^x3F6DB3冰霜^7伤害，其数值等同于物理伤害的 30%
+	Ice Novas happen around you,	冰霜新星环绕着你
+Have Greater Shocking Shrine?,你有【高等感电神龛】？
+This will enable the Greater Shocking Shrine buff.,这将启用【高等感电神龛】增益。
+	Gain 30% of Physical Damage as Extra Lightning Damage,	^7获得额外^xADAA47闪电^7伤害，其数值等同于物理伤害的 30%
+	Shock Novas happen around you,	闪电新星环绕着你
+Have Greater Skeletal Shrine?,你有【高等魔侍神龛】？
+This will enable the Greater Skeletal Shrine buff.,这将启用【高等魔侍神龛】增益。
+	Gain 30% of Physical Damage as Extra Chaos Damage,	^7获得额外^xD02090混沌^7伤害，其数值等同于物理伤害的 30%
+	Skeletons are summoned to you,	为你召唤魔侍
 Have Impenetrable Shrine?,你有【无畏神龛】？
 This will enable the Impenetrable Shrine buff.,这将启用【无畏神龛】增益。
 	100% increased Armour,	护甲提高 100%
@@ -824,8 +839,9 @@ Cap to Single Bleed on enemy?,设置敌人只能拥有单层流血?
 "Rupture applies 25% more bleed damage and 25% faster bleeds for 3 seconds, up to 3 stacks","每一层残破会令目标所受流血伤害总增25%、流血生效速度提高25%，一个目标最多可受到3层残破"
 Is the enemy Poisoned?,敌人是否【中毒】?
 # of Poison on enemy:,敌人【中毒】层数:
-Cap to Single Poison on enemy?,只对敌人造成单层中毒?
-"This is for low tolerance, but will limit you to only applying a single poison on the enemy","此针对低容忍度，但会限制你只能对敌人造成一层中毒"
+Is the enemy non-Poisoned?,敌人还没【中毒】?
+"This is for low tolerance, but will limit you to only applying poison a single time","此针对低容忍度，但会限制你只能对敌人造成一层中毒"
+(Note that you can still apply multiple stacks via 'inflict additional poison' mods),^8(注意，你仍可以通过“施加额外中毒”等修正来造成多次中毒堆叠效果。)^7
 #% of Curse Expired on enemy:,敌人身上诅咒持续时间削减%:
 Curse Duration Expired on enemy:,敌人身上诅咒结束前存在时间:
 # of Withered Stacks:,【凋零】层数:
@@ -909,6 +925,11 @@ Is the enemy Intimidated?,敌人是否被【威吓】?
 Intimidated enemies take 10% increased Attack Damage.,被【威吓】的敌人承受的攻击伤害提高10%。
 Is the enemy Crushed?,敌人是否被【碾压】?
 Crushed enemies have 15% reduced Physical Damage Reduction.,被【碾压】的敌人的物理减伤减少15%。
+Is enemy affected by Hallowing Flame?,敌人是否被施加【崇敬烈焰】?
+Hallowing Flame Stacks,【崇敬烈焰】层数
+Amount of Hallowing Flame stacks applied to the enemy.,敌人被施加【崇敬烈焰】的层数
+Hallowing Flames removed by an ally recently,【崇敬烈焰】近期被友军移除
+Amount of Hallowing Flame stacks removed from enemies by allies recently.,近期友军移除【崇敬烈焰】的层数。
 Is the enemy near you Linked target?,敌人是否靠近你的羁绊对象?
 Is the enemy Unnerved?,敌人是否被【恐惧】?
 Unnerved enemies take 10% increased Spell Damage.,被【恐惧】的敌人承受的法术伤害提高10%。
