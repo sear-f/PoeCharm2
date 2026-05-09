@@ -75,6 +75,7 @@ Default character level:,默认角色等级：
 Default item affix quality:,默认物品词缀Roll值：
 Show build warnings:,显示构筑警告:
 Show tooltips only for affected slots:,仅为受影响的插槽显示工具提示:
+"Shows comparisons in tooltips only for the slot you are currently placing the item in, instead of all slots.","仅显示你当前有物品的槽位的对比工具提示，而非所有槽位的信息。"
 Copy Eldritch Implicits onto Display Item:,复制异能基底至显示的物品:
 "Apply Eldritch Implicits from current gear when comparing new gear, given the new item doesn't have any influence","在比较新装备时，如果新装备没有受影响，则应用当前装备的异能基底"
 Show tooltip for unsupported mods :,为不支持的词缀显示工具提示:
