@@ -1086,3 +1086,49 @@ Enemy Skill Chaos Damage:,敌人技能^xD02090混沌^7伤害:
 
 
 Custom Modifiers,自定义修正
+
+Are you Sprinting?,你是否在冲刺?
+Are you surrounded?,你是否被包围?
+You are surrounded if there are at least 5 Enemies within 3 metres of you,"如果你周围 3 米范围内至少有 5 名敌人,则你被视为被包围"
+Do you have Quicksand Hourglass?,你是否拥有流沙沙漏?
+this will enable the Quicksand Hourglass buff itself,这将使时空法师的升华天赋流沙沙漏的增益效果自行启用
+# of Tailwind Stacks:,流顺之风(锐眼)层数:
+Are you out of Life Flask uses?,你的生命药水使用完了吗?
+Do you have a Charm active?,你是否有一个护符处于激活状态?
+This is automatically enable if you have a charm active.,如果你有一个护符处于激活状态，这将自动启用
+Is a Companion in your Presence?,你存在范围内是否有同伴?
+# of Minions in your Presence:,你存在范围内的召唤物数量:
+Have you been Stunned Recently?,你近期是否被眩晕过?
+Infusion consumed recently?,近期是否消耗过灌注?
+Are you in dodge roll?,你是否处于翻滚闪避状态?
+Do your hits always Heavy Stun?,你的击中是否总是造成沉重眩晕?
+Reserved Darkness:,保留的黑暗值(夏乌拉侍僧):
+Elemental Resistance penalty:,元素抗性惩罚:
+Cooldown calculation mode:,冷却时间计算模式:
+"Controls how the cooldown for skills is calculated:",控制技能冷却时间的计算方式:
+"	Base: The cooldown is calculated with normal behavior.",    基础模式:冷却时间按照正常行为计算.
+"	Average: The cooldown is adjusted to reflect the average time between uses, factoring in effects such as a chance to not consume a cooldown.",    平均模式:冷却时间被调整为技能使用间隔的平均时间，并考虑概率不消耗冷却时间等效果.
+Disable EHP gain on block/suppress:,禁用格挡/压制时的生命值获取
+Sets the EHP calc to not apply gain on block and suppress effects,有效生命值的计算不再考虑格挡和压制时的获取
+Distance to enemy:,与敌人的距离:
+# different Ammo Types Shot past 10s,过去10秒内射出的不同弹药类型数量
+# different Grenade Types Shot past 10s,过去10秒内射出的不同榴弹类型数量
+Is the Bleed Aggravated?,该流血是否已被恶化加剧?
+Is enemy Armour Broken?,敌人是否被破甲?
+# of Broken Armour on enemy (if not maximum):,敌人被破坏的护甲:
+"Use this field to set a custom Armour Break value.",设置自定义的护甲破坏值
+"If left empty or set to 0, Fully Broken Armour will be assumed.",如果留空或设置为0,将假定护甲已被完全破坏
+"Armour cannot be broken below 0 unless stated otherwise.",除非另有说明,否则护甲不能被击破至0以下
+Is the enemy Dazed?,敌人是否被目眩?
+Is the enemy Pinned?,敌人是否被钉身?
+Is the enemy Immobilised?,敌人是否被禁锢?
+Is the enemy Heavy Stunned?,敌人是否被沉重眩晕?
+Is the enemy Critically Weak,敌人是否有暴击弱点?
+Critically weakness stacks:,暴击弱点层数:
+Does enemy have Open Weakness?,敌人是否有暴露弱点(亚马逊)？
+Enemy Open Weakness Presence?,存在范围内是否有带有暴露弱点(亚马逊)的敌人?
+# of Bleeds on enemy (if not average):,敌人身上的流血层数:
+# of incision Stacks:,敌人身上的切割层数:
+# of Poisons on enemy (if not average):,敌人身上的中毒层数:
+Quest Rewards,剧情章节奖励
+Endgame (-60%),终局(-60%)
