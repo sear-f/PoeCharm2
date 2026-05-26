@@ -149,3 +149,21 @@ Minion Ignite DPS exceeds in game limit,召唤物点燃DPS超过游戏上限
 Minion Poison dps exceeds in game limit,召唤物中毒DPS超过游戏上限
 Minion DoT DPS exceeds in game limit,召唤物持续伤DPS超过游戏上限
 "Presence Radius:",在场范围:
+Surrounded Radius:,包围判定范围:
+Chance to Blind:,致盲几率:
+Chance to Daze:,目眩几率:
+Inc. Quiver Effect:,箭袋效果提高:
+MS While Casting:,施法时移动速度:
+Eva. as Deflection:,闪避值视为偏转值:
+Arm. as Deflection:,护甲值视为偏转值:
+Enemy Aill. Thresh.:,敌人异常状态门槛
+Stun Buikdup:,眩晕累积
+Deflection Rating:,偏转值:
+Deflect Effect:,偏转效果:
+Deflect Chance:,偏转几率:
+Gem Req Mod:,技能宝石需求修正:
+Item Req Mod:,物品需求修正:
+Weapon Req Mod:,武器需求修正:
+Weap. Swap Speed:,武器切换速度:
+Ailment Threshold:,异常状态门槛:
+Charm limit:,护符数量上限:
