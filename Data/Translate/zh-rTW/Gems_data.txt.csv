@@ -130,7 +130,7 @@ Dash,幻步
 Desecrate,褻瀆
 Despair,絕望
 "Destructive Link",連結：破壞
-Determination,瓦爾．堅定
+Determination,堅定
 "Detonate Dead",屍體爆破
 "Detonate Mines",引爆地雷
 "Devouring Totem",吞噬圖騰
@@ -194,7 +194,7 @@ Exsanguinate,抽血
 "Fire Weapon",烈焰武器
 Fireball,火球
 Firestorm,烈炎風暴
-"Flame Breath",火焰之息
+"Flame Breath",火焰吐息
 "Flame Dash",烈焰衝刺
 "Flame Link",連結：烈焰
 "Flame Surge",怒焰奔騰
@@ -214,7 +214,7 @@ Focus,專注
 "Forbidden Rite",禁忌儀式
 "Freeze Mine",冰凍地雷
 "Freezing Pulse",冰霜脈衝
-Frenzy,狂怒球
+Frenzy,狂怒
 "Frost Blades",冰霜之刃
 "Frost Bolt Channel",持續施法寒冰彈
 "Frost Bomb",寒霜爆
@@ -279,7 +279,7 @@ Lacerate,破空斬
 "Leap Slam",躍擊
 "Lightning Aegis",閃電聖盾
 "Lightning Arrow",閃電箭矢
-"Lightning Bolt",雷擊
+"Lightning Bolt",雷彈
 "Lightning Clone Retaliation",閃電複製體復仇
 "Lightning Conduit",導雷
 "Lightning Spire Trap",鋒雷陷阱
@@ -329,7 +329,7 @@ Punishment,懲戒
 "Queen's Demand",女王之慾
 "Rage Vortex",盛怒漩渦
 "Rain of Arrows",箭雨
-"Rain Of Blades",刀雨
+"Rain Of Blades",刀刃之雨
 "Raise Spectre",喚醒幽魂
 "Raise Spiders",異蛛復甦
 "Raise Zombie",殭屍復甦
@@ -360,7 +360,7 @@ Riptide,激流
 "Shield Shatter",盾牌碎裂
 "Shock Ground",感電地面
 "Shock Nova",閃電新星
-Shockwave,衝擊波
+Shockwave,震波
 "Shockwave Totem",震波圖騰
 "Shrapnel Ballista",彈片砲塔
 "Siege Ballista",攻城炮台
@@ -380,7 +380,7 @@ Spark,電球
 "Spectral Spinning Weapon",靈製武器
 "Spectral Spirits",幽魂之靈
 "Spectral Throw",靈體投擲
-Spellslinger,法術回音
+Spellslinger,拋法者
 "Spirit Burst",靈體爆破
 "Spirit Offering",靈魂奉獻
 "Split Arrow",分裂箭矢
@@ -397,7 +397,7 @@ Steelskin,鋼筋鐵骨
 "Storm of Judgement",審判風暴
 "Storm Rain",暴風雷雨
 Stormbind,風暴術符
-"Stormblast Mine",風爆地雷
+"Stormblast Mine",風暴地雷
 "Summon Arbalists",召喚弩兵
 "Summon Bestial Rhoa",召喚兇猛恐喙鳥
 "Summon Bestial Snake",召喚兇猛蟒蛇
@@ -439,7 +439,7 @@ Taunt,嘲諷
 "Tawhoa's Chosen",塔赫亞的抉擇
 "Tectonic Slam",破體之擊
 "Tempest Shield",暴風之盾
-"Temporal Chains",時空鎖鍊
+"Temporal Chains",時空鎖鏈
 "Temporal Rift",時空裂隙
 "Tentacle Whip",觸手鞭擊
 "Thirst for Blood",嗜血
@@ -795,8 +795,8 @@ Eviscerate,剔骨
 "Glacial Shield Swipe",冰川盾擊
 "Jet of Flame",烈焰噴射
 "Puncture of Shanking",腿脛放血
-"Summon an image of Beidat, Archangel of Death",召喚死亡天使．貝達特的形象
-"Summon an image of K'tash, the Hate Shepherd",召喚仇恨牧人．克塔什的形象
+"Summon an image of Beidat, Archangel of Death",召喚死亡天使．貝達特的幻影
+"Summon an image of K'tash, the Hate Shepherd",召喚仇恨牧人．克塔什的幻影
 "Summon Demon Beast",召喚惡魔野獸
 "Summon Demon Harpy",召喚惡魔鷹身
 "Summon Demon Imp",召喚惡魔小鬼
@@ -973,7 +973,7 @@ Meditate,冥想
 Punch,正拳
 "Quarterstaff Strike",細杖打擊
 "Raging Spirits",憤怒狂靈
-"Raise Shield",展開護盾
+"Raise Shield",舉盾
 Rampage,暴怒
 "Rapid Assault",極速進攻
 "Rapid Shot",疾射
@@ -1421,7 +1421,7 @@ Future-Past,未來昔日
 "Heart of Ice",冰雪之心
 "His Dark Horizon",他的黑暗視界
 "His Foul Emergence",他的惡臭降臨
-"His Grave Command",他的緊急命令
+"His Grave Command",他的死墓命令
 "His Scattering Calamity",他的散布災禍
 "His Vile Intrusion",他的惡毒入侵
 "His Winnowing Flame",他的飛舞烈焰
@@ -1504,7 +1504,7 @@ Icicles,碎霜彈幕
 "Spectral Helix of Trarthus",特拉特斯靈體旋武
 "Spectral Shield Throw of Trarthus",特拉特斯盾靈投擲
 "Spectral Throw of Trarthus",特拉特斯靈體投擲
-Starfall,星空殞落
+Starfall,星墜
 "Storm Call of Trarthus",特拉特斯風暴呼喚
 "Summon Living Lightning",召喚活躍閃電
 "Summon Shaper Memory",召喚塑界者的記憶
@@ -1518,7 +1518,7 @@ Starfall,星空殞落
 "The Great Avalanche",浩劫雪崩
 "The Grey Wind Howls",灰風咆嘯
 Thunderburst,雷霆爆裂
-Thunderstorm,天雷暴雨
+Thunderstorm,閃電風暴
 "Violent Desire",暴力渴望
 "Wall of Force",力量之壁
 "Ward Shatter",保護碎裂
@@ -1623,3 +1623,79 @@ Mesmerize,催眠指令
 "Tears of Rot",腐朽淚滴
 "Void Shockwave",虛空震波
 Voidstorm,虛空風暴
+"Animus Exchange",意志轉換
+"Animus Splinters",意志裂片
+"Archon of Chayula",夏烏拉統治者
+"Azmerian Swarms",阿茲莫里群落
+"Azmerian Wolf",阿茲莫里巨狼
+"Bitter Dead",苦澀衰亡
+"Blood Explosion",鮮血爆炸
+"Charge Regulation",充能調節
+"Chayula's Will",夏烏拉之志
+"Coiling Bolts",寂纏彈
+"Concussive Runes",震盪符文
+"Conductive Runes",導電符文
+"Corrupted Cry",汙染戰吼
+"Crushing Fear",死懼碎擊
+"Dark Consequences",黑暗業報
+"Detonate Living",活體引爆
+"Embrace The Fall",夜殞之擁
+"Eternal Hunt",永恆狩獵
+"Eternal March",永恆行軍
+"Explosive Transmutation",爆炸轉化
+"Falling Blade",墜落刀刃
+"Fist of Kalguur",卡爾葛之拳
+"Fragment Self",破碎仿身
+"Fragments of the Past",往昔碎片
+"Frostflame Nova",霜火新星
+"Gelid Palm",冰冽掌
+Grenade,爆彈投擲
+"Grim Pillars",恐怖之柱
+"Harbinger of Madness",神諭之狂
+"Herald of the Royal Queen",女皇之捷
+"Hollow Focus",空無專注
+"Hollow Form",空無型態
+"Hollow Resonance",空無共鳴
+"Hollow Shell",空無披甲
+"Kinetic Bash",動力猛擊
+Leylines,地脈
+"Mad Flight",狂亂翱翔
+"Manifest Rune",幻化符文
+"Midnight Zenith",午夜天頂
+"Mirror Breaker",狂鴉碎裂
+"Mist Raven",迷霧渡鴉
+"Molten Shower",熔火噴濺
+"Nature's Exchange",自然交換
+"Powered by Verisium",維里西姆強化
+"Primal Bounty",原始賞金
+"Profane Decay",瀆神衰敗
+Refutation,駁斥
+"Remnants of Kalguur",卡爾葛之痕
+Repulsion,推斥
+"Repulsion Wave",推斥波動
+"Righteous Descent",神翼懲降
+"Rite of Restoration",新生之儀
+Roar,怒吼
+"Runeforged Blades",符鍛刀刃
+"Runic Reprieve",符文喘息
+"Sanguine Revelry",腥紅狂歡
+Skyfall,天墜
+Slam,重擊
+"Smash to Smithereens",轟碎重擊
+"Soaring Midnight",午夜飛掠
+"Spiraling Conspiracy",邪鴉旋纏
+"Spirit Vessel",魂靈容器
+"Starborn Onslaught",星裔猛襲
+"The Stars Answer",群星回應
+"Transmutation Explosion",轉化爆炸
+"Triskelion Cascade",三曲爆發
+"Twisted Pact",扭曲契約
+"Verisium Manifestations",維里西姆顯化
+"Virtuous Barrier",高尚禦盾
+"Vivid Stampede",靈現奔竄
+"Voltaic Barrier",伏打電盾
+"Voltaic Fulmination",伏打轟鳴
+"Wardbound Minions",戰縛召喚物
+"Wild Protector",荒野守護
+"Wildwood's Gifts",荒林禮贈
+"Winged Entropy",亂翼侵蝕

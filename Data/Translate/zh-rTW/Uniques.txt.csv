@@ -48,7 +48,7 @@ Drillneck,穿心
 Rearguard,寒鋒之衛
 "Ambu's Charge",安姆布的戰甲
 Ashrend,拂燼
-"Belly of the Beast",獸腹
+"Belly of the Beast",巨獸之腹
 Bramblejack,刺棘寶甲
 Briskwrap,荒途
 "Bronn's Lithe",布隆的影衣
@@ -110,7 +110,7 @@ Hrimsorrow,冰冷之眼
 "Shackles of the Wretched",悲運之縛
 Slitherpinch,蒼蟒之鱗
 Snakebite,蝮吻
-Thunderfist,轟天雷
+Thunderfist,雷拳
 "Vaal Caress",瓦爾的靈手
 Abyssus,深淵之喚
 "Alpha's Howl",極地之嗥
@@ -1372,17 +1372,17 @@ Bloodnotch,缺血症
 "The Chains of Castigation",懲戒鎖鏈
 "The Power and the Promise",權力和誓約
 "The Trickster's Smile",戲法師的微笑
-Pragmatism,實用主義
+Pragmatism,務實主義
 "The Untouched Soul",聖潔之魂
 "Replica Covenant",贗品．血誓
 "Replica Badge of the Brotherhood",贗品．激情之章
 "Ixchel's Temptation",伊克契爾的誘惑
 Gamblesprint,豪賭
-"The Burden of Shadows",沉重陰影
+"The Burden of Shadows",暗影重擔
 "That Which Was Taken",霸佔
 Nametaker,奪名
-"The Flawed Refuge",瑕疵避難
-"The Adorned",假掰
+"The Flawed Refuge",不完美的庇護所
+"The Adorned",朝氣之靈
 "Replica Hinekora's Sight",贗品．悉妮蔻拉之眼
 "Replica Heatshiver",贗品．寒焰
 "Replica Hyrri's Ire",贗品．西里的戰衣
@@ -1583,7 +1583,7 @@ Grimgrasp,陰鬱之握
 Trephina,崔非那
 "The Empty Roar",空洞怒吼
 Shyaba,沙阿巴
-"Zerphi's Genesis",澤菲的創世紀
+"Zerphi's Genesis",澤佛伊的創世紀
 "The Wicked Quill",邪惡羽毛
 "Rod of Enervation",衰弱之杖
 "Serpent's Egg",毒蛇之卵
@@ -1616,7 +1616,7 @@ Temporalis,時空之物
 "Sekhema's Resolve",絲克瑪的決意
 Beetlebite,甲蟲噬咬
 "Beyond Reach",無法到達
-"Heroic Tragedy",英勇悲劇
+"Heroic Tragedy",英雄悲劇
 "From Nothing",從無到有
 "Controlled Metamorphosis",受控的蛻變
 "Prism of Belief",信仰棱鏡
@@ -1806,7 +1806,7 @@ Woespike,悲嘆之刺
 "Wellwater Phylactery",井泉魂罐
 "Amor Mandragora",阿莫爾．曼德拉戈拉
 "Fury of the King",帝王之怒
-"Atziri's Contempt",阿茲里的蔑視
+"Atziri's Contempt",阿茲里的輕視
 "Flesh Crucible",血肉坩堝
 "Hysseg's Claw",希塞格之爪
 "Lavianga's Spirits",拉維安加之泉
@@ -1827,3 +1827,37 @@ Fleshrender,血肉撕扯者
 "The Broken Elegy",破碎輓歌
 "The Bane of Hope",希望之終
 "Replica Gifts from Above",贗品．神賜
+Reverie,綺夢
+"Safrin's Resolve",薩弗林的決心
+"Eshtera's Path",艾許特拉之路
+"Zaida's Longevity",扎伊達的長壽
+"Eventide Petals",暮色瓣落
+"Horror's Flight",驚懼飛掠
+"Liminal Coil",臨界纏繞
+Periphery,邊陲
+"Sylvan's Effigy",林木塑像
+"The Ordained",神授命使
+"The Raven's Flock",渡鴉集束
+"Twisted Empyrean",畸變星穹
+"Serle's Grit",瑟雷的毅力
+"The Unleashed",釋放者
+Nightfall,夜墜
+Redemption,救贖
+"The Auspex",觀鳥者
+"Decree of Acuity",敏銳敕令
+"Decree of Flight",翔天敕令
+"Decree of Loyalty",忠誠敕令
+Duality,二元性
+"Eyes of the Runefather",符文之父的視界
+"Forgotten Warden",遺忘看守
+"Mastered Domain",主宰領地
+Opportunity,契機
+"Sadist's Mercy",殘虐者的慈悲
+"Spiteful Floret",決恨花簇
+"Surge of the Tide",潮汐浪湧
+"The Sunken Vessel",沉船
+"Vestige of Darkness",幽暗殘餘
+Veilpiercer,破帷者
+"Uhtred's Chalice",烏特雷的聖杯
+"Runeseeker's Call",符文探求者之喚
+"Immaculate Adherence",完美契合

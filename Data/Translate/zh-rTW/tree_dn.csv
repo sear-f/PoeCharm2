@@ -10,13 +10,13 @@
 "Elemental Resistances with a Shield",持盾元素抗性
 "Shield Block and Block Recovery",盾牌格擋與格擋恢復
 Sanctuary,聖所
-"Sword Damage",劍的傷害
+"Sword Damage",劍：傷害
 "Smashing Strikes",沉重之擊
 "Staff Damage and Stun Duration",長杖傷害和暈眩持續時間
 "Mace Damage and Reduced Enemy Stun Threshold",錘的傷害和減低敵人暈眩門檻
 "Mace Damage and Area of Effect",錘的傷害和範圍效果
 "Skull Cracking",碎顱
-"Mace Damage",錘的傷害
+"Mace Damage",錘類傷害
 "Mace Damage and Stun Duration",錘的傷害和暈眩持續時間
 "Bone Breaker",破骨
 "Life and Armour",生命與護甲
@@ -27,7 +27,7 @@ Armour,護甲
 "Axe Damage and Attack Speed",斧的傷害和攻擊速度
 "Hatchet Master",斧刃宗師
 Slaughter,"屠殺 "
-"Axe Damage",斧的傷害
+"Axe Damage",斧傷害
 "Bleed Chance",流血機率
 "Born to Fight",為戰而生
 "Physical Attack Damage",物理攻擊傷害
@@ -46,7 +46,7 @@ Mana,魔力
 "Knockback Chance",擊退機率
 "Knockback Distance",擊退距離
 Fending,自衛術
-"Endurance Charge Duration",耐力球持續時間
+"Endurance Charge Duration",耐力球持續
 Bloodless,無血之體
 "Stun Threshold Reduction",暈眩門檻減免
 "Armour and Life",護甲和生命
@@ -100,7 +100,7 @@ Overcharge,強化聚能
 "Fire Walker",火靈之道
 "Burning Damage Multiplier",燃燒傷害加成
 "Fire Damage and Life Regeneration",火焰傷害和生命回復
-Arsonist,縱火
+Arsonist,火焰傷害
 "Energy Shield and Energy Shield Recharge Rate",能量護盾和能量護盾回復率
 "Fingers of Frost",凜冽之指
 "Frost Walker",冰靈之道
@@ -114,14 +114,14 @@ Arsonist,縱火
 "Spell Critical Strike Multiplier",法術暴擊加成
 "Arcane Potency",秘能爆發
 Amplify,增幅
-"Area of Effect",影響範圍
+"Area of Effect",範圍效果
 "Area of Effect Damage",範圍傷害
 "Deep Thoughts",沉靜思維
 "Mana Regeneration and Life",魔力回復與生命
 "Mana Regeneration and Reduced Mana Cost",魔力回復和減少魔力消耗
 "Critical Strike Multiplier",暴擊加成
 Nimbleness,巧語
-"Cast Speed",施放速度
+"Cast Speed",施法速度
 "Cast Speed and Spell Critical Strike Chance",施放速度
 Vampirism,吸血主義
 "Fangs of Frost",刺骨寒冰
@@ -142,7 +142,7 @@ Intuition,直覺
 "Physical Bow Damage and Stun Threshold",物理弓傷害和暈眩門檻
 "Bow Damage Over Time",弓持續傷害
 "Bow Critical Strike Chance and Multiplier",弓暴擊率和加成
-"Bow Damage",弓傷害
+"Bow Damage",弓類傷害
 "Bow Damage and Attack Speed",弓的傷害和攻擊速度
 "Bow Damage and Accuracy",弓的傷害和命中
 "Bow Damage and Critical Strike Chance",弓的傷害和暴擊率
@@ -185,7 +185,7 @@ Warrior,戰士
 WarBringer,戰爭使者
 RANGER,遊俠
 DUELIST,決鬥者
-TEMPLAR,聖堂武僧
+TEMPLAR,聖騎士
 "Two Handed Melee Damage and Life Leech Speed",雙手武器近戰傷害和收命偷取
 Executioner,處決者
 Cleaving,劈砍
@@ -233,7 +233,7 @@ Evasion,閃避
 "Arcane Focus",秘能之心
 Instability,聚能之界
 Infused,灌注
-"Mana Regeneration",魔力回復
+"Mana Regeneration",魔力回復率
 Disemboweling,開腸剖肚
 "Melee Critical Strike Chance",近戰暴擊率
 "Divine Fervour",聖情
@@ -266,7 +266,7 @@ Coordination,和諧之體
 Finesse,嫻熟
 Presage,預示
 Might,堅強力量
-"Movement Speed",移動速度
+"Movement Speed","移動速度 "
 "Attack Damage",攻擊傷害
 Dervish,修行之刃
 Berserking,狂戰之魂
@@ -283,7 +283,7 @@ Trickery,詭計
 "Evasion and Elemental Resistances",閃避與元素抗性
 Reflexes,反射
 Swagger,雙刃之舞
-Block,格檔
+Block,格擋
 "Dual Wield Block and Attack Speed",雙持格擋和攻擊速度
 "Ignite Chance and Duration",點燃機率和持續時間
 "Heart of Flame",火焰之心
@@ -355,7 +355,7 @@ Assassination,刺殺
 "Cloth and Chain",迅影秘術
 "Serpent Stance",蛇影戰陣
 "Energy Shield Recharge Rate",能量護盾充能率
-"Zealot's Oath",狂熱誓言
+"Zealot's Oath",狂熱者的誓言
 "Mana and Aura Area of Effect",魔力和光環範圍效果
 "Primal Spirit",原始精神
 "Mana and Flask Effect",魔力和藥劑效果
@@ -377,9 +377,9 @@ Ironwood,鐵木
 "Master Sapper",工兵大師
 "High Explosives",煉獄炸彈
 "Mine Damage",地雷傷害
-"Clever Construction",聰明的建設
+"Clever Construction",巧妙構築
 Saboteur,破壞者
-"Path of the Warrior",戰士之路
+"Path of the Warrior",戰士之道
 "Path of the Savant",賢者之路
 "Path of the Hunter",獵人之路
 Shaper,聖杯
@@ -511,7 +511,7 @@ Juggernaut,勇士
 "Attack Damage and Attack Speed with Shield",持盾攻擊傷害和攻擊速度
 Retaliation,復仇
 "Shield Block and Elemental Resistances",盾牌格擋和元素抗性
-"Cold and Lightning Damage",冰冷與閃電傷害
+"Cold and Lightning Damage",冰冷和閃電傷害
 "Storm Weaver",風暴織者
 "Faster Bleeding",加速流血
 "Maximum Lightning Resistance",最大閃電抗性
@@ -524,10 +524,10 @@ Tireless,冷酷
 "Mana and Life Regeneration",生命回復和魔力回復
 "Bleed Damage and Chance",流血傷害和機率
 "Bleed Damage Multiplier",流血傷害加成
-Bloodletting,出血
+Bloodletting,滲血
 "Basic Jewel Socket",基礎珠寶插槽
 "Large Jewel Socket",巨型珠寶插槽
-"Power Charge Duration",暴擊球持續時間
+"Power Charge Duration",暴擊球持續
 "Cold Damage and Cold Ailment Effect",冰冷傷害和冰冷異常狀態效果
 "Flash Freeze",閃現冰凍
 "Armour, Evasion and Onslaught Effect",胸甲、閃避和猛攻效果
@@ -554,7 +554,7 @@ Rampart,壁壘
 "Explosive Impact",暴烈衝擊
 "Lightning Damage and Cast Speed",閃電傷害和施放速度
 "Crackling Speed",神速暴裂
-"Fire and Cold Damage",火焰和冰冷傷害
+"Fire and Cold Damage",元素傷害
 Snowforged,雪鍛
 "High Voltage",高壓伏特
 "Armour, Endurance Charge Duration",護甲、耐力球持續時間
@@ -610,7 +610,7 @@ Ricochet,彈射
 "Projectile Damage, Accuracy",投射物傷害、命中率
 "Endless Munitions",無限彈藥
 "Projectile Damage, Projectile Speed",投射物傷害、投射物速度
-"Far Shot",狙擊
+"Far Shot",遠射
 Rupturing,斷裂
 "Projectile Damage, Critical Strike Chance",投射物傷害、暴擊率
 "Projectile Damage, Mirage Archer Duration",投射物傷害、幻影射手持續時間
@@ -775,7 +775,7 @@ Pyromaniac,縱火狂
 "Path of the Duelist",決鬥者之道
 "Path of the Shadow",暗影刺客之道
 "Path of the Templar",聖堂武僧之道
-"Passive Point",天賦點數
+"Passive Point",天賦點
 "Strength and Dexterity",力量和敏捷
 "Strength and Intelligence",力量和智慧
 "Dexterity and Intelligence",敏捷和智慧
@@ -831,7 +831,7 @@ Overcharged,超載
 "Weapon Elemental Damage, Status Ailment Chance",武器元素傷害，異常狀態機率
 "Weapon Elemental Damage and Ailment Effect",武器元素傷害和異常狀態效果
 "Primeval Force",太古之力
-Insightfulness,洞見觀瞻
+Insightfulness,明察秋毫
 Counterweight,平衡反擊
 "Ailment Damage",異常狀態傷害
 "Damaging Ailment Duration",傷害行異常狀態持續時間
@@ -873,7 +873,7 @@ Avoidance,避免
 "Poison Avoidance",避免中毒
 "Taste for Blood",血味
 Tolerance,寬容
-"Physical and Lightning Damage",物理和閃電傷害
+"Physical and Lightning Damage",物理與閃電傷害
 "Physical and Fire Damage",物理和火焰傷害
 "Physical and Elemental Damage",物理和元素傷害
 "Chance to Ignite, Freeze and Shock",點燃、冰凍和感電機率
@@ -937,7 +937,7 @@ Inveterate,根深蒂固
 "Impale Effect",穿刺效果
 "Impale Chance and Physical Attack Damage",穿刺機率和物理攻擊傷害
 "Merciless Skewering",無情串燒
-"Impale Chance",穿刺激率
+"Impale Chance",穿刺機率
 "Forceful Skewering",強勢刺穿
 "Physical Damage as Extra Fire Damage",物理傷害的額外火焰傷害
 "Magmatic Strikes",岩漿之擊
@@ -984,7 +984,7 @@ Backstabbing,背刺
 "Dagger Critical Strike Multiplier and Poison Duration",匕首的暴擊加成和中毒持續時間
 "Dagger Ailment Damage and Poison Chance",匕首的異常狀態傷害和中毒機率
 "Dagger Critical Strike Chance",匕首的暴擊率
-Wasting,浪費
+Wasting,虛耗
 Disintegration,異變
 "Two Handed Melee Critical Strike Chance and Accuracy",雙手武器近戰暴擊率和命中
 "Titanic Impacts",巨大影響
@@ -1005,7 +1005,7 @@ Safeguard,庇護
 "Staff Damage and Armour",長杖傷害和護甲
 "Steelwood Stance",鋼木之姿
 "Staff Elemental Damage and Penetration",長杖元素傷害和穿透
-"One with the River",河流之子
+"One with the River",與河同行
 "Staff Accuracy",長杖命中
 "Deadly Draw",致命箭矢
 "Mana and Arcane Surge Effect",魔力和秘能波動效果
@@ -1024,7 +1024,7 @@ Safeguard,庇護
 "Mana Flasks",魔力藥劑
 "Essence Extraction",萃取精華
 "Ravenous Horde",貪婪之徒
-"Minion Damage and Duration",召喚物傷害和持續時間
+"Minion Damage and Duration",召喚物傷害及持續時間
 "Enduring Bond",持久合作
 "Minion Critical Strike Chance",召喚物暴擊率
 "Fearsome Force",恐怖之力
@@ -1046,7 +1046,7 @@ Safeguard,庇護
 "Successive Detonations",連續爆破
 "Mine Damage and Reservation Efficiency",地雷傷害和保留效用
 "Efficient Explosives",高能炸彈
-"Searing Heat",灼熱
+"Searing Heat",灼熱高溫
 "Faster Ignite",快速點燃
 "Dire Torment",悲慘折磨
 "Critical Ailment Damage Over Time Multiplier",暴擊異常狀態持續傷害加成
@@ -1109,7 +1109,7 @@ Harpooner,魚叉手
 "Serpentine Spellslinger",毒蛇法術回音
 "Mana Regeneration and Increased Mana Cost",魔力回復和增加魔力消耗
 Forethought,前瞻性
-"Infused Flesh",注入肉體
+"Infused Flesh",灌注血肉
 "Imbalanced Guard",不平衡守衛
 "The Impaler",穿刺者
 "Brand Duration",烙印持續時間
@@ -1137,7 +1137,7 @@ Hearty,爽朗
 "Physical Damage Over Time Multiplier",物理持續傷害加成
 "Physical Damage and Overwhelm",物理傷害和鎮壓
 Vanquisher,勝者
-Relentless,狠勁
+Relentless,冷酷無情
 "Veteran Soldier",老兵
 "Curse Effect on You and Chaos Resistance",你身上的詛咒和混沌抗性
 Asylum,避難所
@@ -1296,7 +1296,7 @@ Fasting,快速
 "Mob Mentality",暴民心理
 "Cry Wolf",狼嚎
 "Haunting Shout",鬼魅呼嘯
-"Lead By Example",模範領導
+"Lead By Example",以身作則
 Provocateur,挑唆者
 "Warning Call",預警呼喚
 "Rattling Bellow",慌亂吼叫
@@ -1393,7 +1393,7 @@ Phlebotomist,放血屍
 "Eldritch Inspiration",怪異靈感
 "Wasting Affliction",耗盡苦難
 Haemorrhage,滲血
-"Flow of Life",生機流動
+"Flow of Life",生命之流
 "Exposure Therapy",曝曬療法
 "Brush with Death",死神之拂
 "Vile Reinvigoration",復興邪惡
@@ -1532,7 +1532,7 @@ Blessed,祝福
 "Position Proxy",位置取代
 "Trial of the Faith",信仰試煉
 "Stance Skill Cooldown Recovery",姿態技能冷卻恢復
-"Bow Attack Speed",弓的攻擊速度
+"Bow Attack Speed",弓類攻擊速度
 "Circle of Life",生命循環
 "Dance of Blades",劍舞
 "Link Effect",連結效果
@@ -1559,7 +1559,7 @@ Perfectionist,完美主義者
 "Righteous Fury",正義怒火
 Multishot,多重射擊
 "Stun Threshold",暈眩門檻
-Escalation,進階
+Escalation,惡化
 "Chaos Resistance and Avoidance",混沌抗性和避免
 "Empowered Bond",賦予之絆
 "Expert Hunter",獵人專家
@@ -1575,7 +1575,7 @@ Escalation,進階
 "Mark Cast Speed and Mana Cost",印記施放速度和魔力消耗
 "Mark Cast Speed",印記施放速度
 "Mark Mana Cost",印記魔力消耗
-"Relentless Pursuit",努力不懈
+"Relentless Pursuit",無情追獵
 "Curse and Chaos Resistance",詛咒和混沌抗性
 "Stun Mastery",暈眩專精
 "Recovery Mastery",恢復專精
@@ -1623,12 +1623,12 @@ Sanguimancy,占血術
 "Mana Leech Speed",魔力偷取速度
 "Rage on Hit",擊中時獲得盛怒
 "Slower Rage Decay",減緩盛怒衰退
-"Battle Trance",戰鬥冥想
+"Battle Trance",戰鬥狂熱
 "Maximum Rage and Armour",最大盛怒和護甲
 "Slower Rage Decay and Armour",較慢的盛怒衰退和護甲
 Vengeance,復仇
 "Savage Intensity",野性強化
-"Maximum Rage",最大盛怒
+"Maximum Rage",最大怒氣
 "Veteran's Wrath",老兵的暴怒
 "Armour, Chaos Resistance",護甲、混沌抗性
 "Physical Damage, Rage on Hit",物理傷害、擊中獲得盛怒機率
@@ -1664,15 +1664,15 @@ Warden,守護者
 "Totem Attack Speed",圖騰攻擊速度
 "Wild Hunger",野性渴望
 "Awe and Terror",敬畏與恐懼
-"Rallying Icon",團結象徵
+"Rallying Icon",激勵圖樣
 "Defiant Stand",反抗立場
 "Renowned Deeds",著名事蹟
 "Banner Area of Effect",鬥旗範圍效果
-"Banner Duration",鬥旗持續時間
+"Banner Duration",旗幟持續時間
 "Banner Valour Gained",獲得的鬥旗勇氣
 "Banner Maximum Valour and Duration",鬥旗最大勇氣和持續時間
 "Banner Maximum Valour",鬥旗最大勇氣
-"Banner Aura Effect",光環效果．鬥旗
+"Banner Aura Effect",旗幟光環效果
 "Wicked Blade",殘靈刀刃
 "Bleed Duration",流血持續時間
 "Master of Wounds",創傷大師
@@ -1704,7 +1704,7 @@ Warden,守護者
 "Flask Duration",藥劑持續時間
 "Roaring Challenge",咆哮挑戰
 "Two Handed Melee Damage and Ignore Physical Damage Reduction",雙手武器近戰傷害和無視物理傷害減免
-"Banner Mastery",鬥旗專精
+"Banner Mastery",旗幟專精
 "Rage Mastery",盛怒專精
 "Tincture Mastery",萃取物專精
 "Vinespike Cordial",荊刺之誠
@@ -1793,7 +1793,7 @@ Reprisal,反擊
 "Lay Siege",圍城
 "Shield Block",盾牌：格擋
 "Greatest Defence",極致防禦
-"Wide Barrier",盾牌：格擋核心
+"Wide Barrier",廣域壁壘
 "Core of the Guardian",守護者核心
 "Shield Damage from Shield Defences",盾牌：盾牌防禦傷害
 "Offensive Stance",攻擊架勢
@@ -1885,12 +1885,12 @@ Calibration,校準
 "Shadow Dancing",影之舞
 Immaterial,無形
 Shimmering,閃閃發光
-"Subterfuge Mask",詭計面具
-"Mindful Awareness",謹慎意識
+"Subterfuge Mask",欺詐面具
+"Mindful Awareness",正念覺察
 "Ancient Aegis",遠古神盾
 "Adamant Recovery",堅韌恢復
 "Reinforced Barrier",加強屏障
-"Spiral into Depression",絕望漩渦
+"Spiral into Depression",陷入憂鬱
 "Unnatural Resilience",超然韌性
 "Prism Guard",稜鏡守護
 "Slow Effect on You",你身上的緩速效果
@@ -1901,7 +1901,7 @@ Unhindered,暢通無阻
 "Feel the Earth",感受大地
 "Shedding Skin",換皮
 "Energy Shield Delay",能量護盾延遲
-"Mystic Stance",秘言姿態
+"Mystic Stance",秘術姿態
 "Quick Response",迅速反應
 "Rapid Recharge",快速充能
 "Covering Ward",防掩護盾
@@ -1989,14 +1989,14 @@ Savouring,品味
 "Life and Mana Flask Recovery",生命與魔力藥劑回復
 "Combat Alchemy",戰鬥煉金術
 "Cautious Concoctions",謹慎調製物
-"Critical Chance",暴擊率
+"Critical Chance",暴擊機率
 "Crashing Wave",震波
 "Critical Damage",暴擊傷害
 "Damage on Critical",暴擊時傷害
 "Cruel Fate",殘酷命運
 "Leaping Ambush",跳躍伏擊
 "Direct Approach",直球進攻
-"For the Jugular",頸中之刺
+"For the Jugular",直擊要害
 "Critical Exploit",弱點善用
 "Spell Critical Damage",法術暴擊傷害
 "Moment of Truth",真相揭曉
@@ -2199,7 +2199,7 @@ Smash,砸碎
 "Killer Instinct",殺手本能
 "Attack Damage and Accuracy",攻擊傷害和命中
 "Presence Present",氣場四散
-"Unexpected Finesse",出奇靈巧
+"Unexpected Finesse",意外靈巧
 "Forking Projectiles",分岔投射物
 "Chaining Projectiles",連鎖投射物
 "Pierce Chance",穿透機率
@@ -2244,7 +2244,7 @@ Fulmination,劇烈爆發
 "Essence of the Mountain",山地精華
 "Lightning Skill Speed",閃電技能速度
 "Lightning Penetration",閃電穿透
-"Shock Effect and Mana Regeneration",感電效果和魔力回復
+"Shock Effect and Mana Regeneration",感電效果與魔力回復
 "Pure Power",純粹電能
 "Electrifying Nature",電能之性
 "Sigil of Lightning",雷電符印
@@ -2258,7 +2258,7 @@ Fulmination,劇烈爆發
 "Echoing Thunder",迴盪雷電
 "Essence of the Storm",暴風精髓
 "Alternating Current",交流電
-"Lightning Damage and Electrocute Buildup",閃電傷害及觸電累積
+"Lightning Damage and Electrocute Buildup",閃電傷害與觸電積累
 "Chaos Damage and Duration",混沌傷害和持續時間
 "Withered Effect",凋零效果
 "Pure Chaos",全然混沌
@@ -2519,7 +2519,7 @@ Overload,過載
 "Unarmed Area",空手地帶
 "Unarmed Attack Speed",空手攻擊速度
 "Way of the Wind",風之道
-Flurry,突襲
+Flurry,冰冷傷害
 "Stun and Freeze Buildup",暈眩與冰凍累積
 "Armour Break Duration",護甲破壞持續時間
 "Armour Break and Armour",護甲破壞與護甲
@@ -2533,7 +2533,7 @@ Irreparable,無可修復
 "Bleed Damage",流血傷害
 Perforation,穿孔
 "Spike Pit",尖刺陷阱
-"Cooldown Recovery Rate",冷卻回復速度
+"Cooldown Recovery Rate",冷卻時間恢復率
 "Distracting Presence",擾亂光環
 Multitasking,一心多用
 "Volatile Catalyst",易爆催化劑
@@ -2627,24 +2627,24 @@ Earthbreaker,天崩地裂
 "Scouring Winds",橫掃之風
 "Heart of the Storm",暴風之心
 "Buff Expiry Rate",增益效果失效速度
-"Debuff Expiry Rate",減益效果消逝速度
+"Debuff Expiry Rate",減益效果衰減率
 "Footprints in the Sand",沙中足跡
 "Ultimate Command",終極指令
 "Circular Heartbeat",心跳循環
 "The Rapid River",急流
-"Now and Again",再度上演
+"Now and Again",循環往復
 "Unbound Encore",無縛安可
 "Apex of the Moment",巔峰時刻
 "Quicksand Hourglass",流沙沙漏
 "Damage vs Low Life Enemies",對貧血狀態的敵人造成的傷害
 "Specialisation Points",專精點數
-"Pitiless Killer",法官、陪審團與劊子手
-"Judge, Jury, and Executioner",委任殺手
+"Pitiless Killer",冷酷殺手
+"Judge, Jury, and Executioner",法官、陪審團與劊子手
 Witchbane,女巫殺手
-"No Mercy",播種不諧
-"Obsessive Rituals",清教徒知識
+"No Mercy",毫不留情
+"Obsessive Rituals",執著祭儀
 "Ceremonial Ablution",儀式淨身
-"Zealous Inquisition",神聖授權
+"Zealous Inquisition",狂熱裁決
 "Skill Gem Quality",技能寶石品質
 Attributes,能力
 "Crystalline Potential",結晶潛能
@@ -2655,12 +2655,12 @@ Attributes,能力
 "Adaptive Capability",應變能力
 "Integrated Efficiency",整合效率
 "Thaumaturgical Infusion",奇術注入
-"Lead me through Grace...",引我行恩典之途…
-"...and Protect me from Harm",…並免我於傷痛
-"I am the Thunder...",我即為雷鳴…
-"I am the Blizzard...",我即為暴雪…
-"...and I Shall Rage",…而我將怒號
-"Sunder my Enemies...",粉碎我的敵人…
+"Lead me through Grace...",引我行恩典之途……
+"...and Protect me from Harm",……並免我於傷痛
+"I am the Thunder...",我即為雷鳴……
+"I am the Blizzard...",我即為暴雪……
+"...and I Shall Rage",……而我將怒號
+"Sunder my Enemies...",粉碎我的敵人……
 "...and Scatter Them to the Winds",……並驅散於長風之中
 "Faith is a Choice",信仰即為抉擇
 "The Soul Springs Eternal",魂魄永恆不息
@@ -2675,7 +2675,7 @@ Darkness,黑暗
 "Grasp of the Void",虛空之握
 "Inner Silence",內在寂靜
 "Projectile Proximity Specialisation",投射物近接專精
-"Thrilling Chase",爆發
+"Thrilling Chase",驚險追逐
 "Called Shots",預告射擊
 "Eagle Eyes",潛意識
 "Poison Effect",中毒效果
@@ -2750,14 +2750,14 @@ Shockproof,防震
 "Consistent Intake",持續承受
 Counterstancing,反擊姿態
 "Glancing Deflection",斜擦偏斜
-"Brush Off",漠視
+"Brush Off",輕易擺脫
 "Deflection Rating",偏斜值
 "Enduring Deflection",恆久偏斜
 "Avoiding Deflection",避免偏斜
 "Energising Deflection",活力偏斜
 "Evasion Rating",閃避值
-"Staunch Deflection",冒險偏斜
-"Trained Deflection",熟練偏斜
+"Staunch Deflection",堅決偏斜
+"Trained Deflection",受訓偏斜
 "Mending Deflection",癒合偏斜
 "Wary Dodging",警覺躲避
 "Stun Threshold and Evasion Rating",暈眩門檻和閃避值
@@ -2851,10 +2851,10 @@ Incision,切割
 "Embodiment of Flame",火焰的化身
 "Archon Effect",統治者效果
 "Cold Damage and Energy Shield Recharge Rate",冰冷傷害及能量護盾充能率
-"Archon of the Blizzard",暴風雪統治者
-"Embodiment of Frost",冰霜化身
-"Energy Shield as Freeze Threshold",能量護盾為冰凍門檻
-"Unbothering Cold",不寒而慄
+"Archon of the Blizzard",暴風雪御法者
+"Embodiment of Frost",寒霜化身
+"Energy Shield as Freeze Threshold",能量護盾作為凍結門檻
+"Unbothering Cold",無礙嚴寒
 "Elemental Force",元素之力
 "Infused Spell Damage",灌注法術傷害
 "Principal Infusion",主要灌注
@@ -3273,7 +3273,7 @@ Rage,狂怒
 "Prolonged Servitude",無期奴役
 "Aul Bloodline",奧爾血裔
 " Precursor's Release",先行者的釋放
-Defences,防禦
+Defences,全域防禦
 "Legacy of the King",王之遺產
 "The King's Contempt",王之蔑視
 "The King's Heritage",王之傳承
@@ -3318,7 +3318,7 @@ Breachlord,裂痕領主
 "Parried Debuff Magnitude and Duration",護盾閃避值
 "Bolt Speed",弩箭速度
 "Specialised Shots",專精射擊
-"Evasion and Reduced Movement Penalty",閃避
+"Evasion and Reduced Movement Penalty",閃避和減少移動速度懲罰
 "Iron Slippers",鋼鐵拖鞋
 "Energy Shield and Armour applies to Elemental Resistance",能量護盾與護甲作用於元素抗性
 "Armour and Energy Shield Delay",護甲與能量護盾延遲
@@ -3359,7 +3359,7 @@ Flare,閃焰
 "Seal Generation Frequency",法術
 "Wasting Casts",懸念
 "Flammability Magnitude and Fire Damage",易燃幅度與火焰傷害
-"Ignite Magnitude and Poison Magnitude",更快點燃與更快中毒
+"Ignite Magnitude and Poison Magnitude",點燃幅度與中毒幅度
 "Dread Engineer's Concoction",驚懼工匠之藥劑
 "Fire Damage and Attack Damage",火焰傷害與攻擊傷害
 "Blazing Arms",炽焰武臂
@@ -3475,8 +3475,8 @@ Shaman,薩滿
 "Reduced Movement Penalty and Attack Damage while Moving",減少移動懲罰和移動時攻擊傷害
 "Ailment Threshold and Slow Effect on You",異常狀態門檻和你身上的緩速效果
 "Against the Elements",元素對抗
-"Additional Remnant Chance",痕跡拾取範圍
-"Remnant Attraction",痕跡拾取範圍
+"Additional Remnant Chance",額外痕跡機率
+"Remnant Attraction",痕跡吸引
 "Channelling Damage and Speed",引導傷害和速度
 "Channelling Damage",引導傷害
 "Channelling Speed",引導速度
@@ -3560,7 +3560,7 @@ Comradery,同袍情誼
 "Wildsurge Incantation",荒野湧浪咒
 "Disciple of Varashta",瓦拉什塔門徒
 Oracle,先知
-"Mountain Splitter",勢不可擋
+"Mountain Splitter",劈山碎石
 "Kitavan Imprint",奇塔弗銘刻
 "Spiked Plates",尖刺鎧甲
 "Tribute to Utula",烏圖拉的貢禮
@@ -3569,9 +3569,9 @@ Oracle,先知
 "Varashta's Intuition",瓦拉什塔的直覺
 "Instruments of Power",力量之器
 "Baryanic Leylines",巴雅地脈
-"Barya of Navira",納維拉的巴雅
-"Barya of Kelari",克拉里的巴雅
-"Barya of Ruzhan",魯兹安的巴雅
+"Barya of Navira",納維拉的巨靈之幣
+"Barya of Kelari",克拉里的巨靈之幣
+"Barya of Ruzhan",魯兹安的巨靈之幣
 "Navira's Fracturing",納維拉的分裂
 "Navira's Well",納維拉之井
 "Navira's Oasis",納維拉綠洲
@@ -3583,7 +3583,7 @@ Oracle,先知
 "Ruzhan's Fury",魯兹安的狂怒
 "Critical Damage Bonus on You",對你的暴擊傷害加成
 "Critical Hit Chance",暴擊機率
-"Entwined Realities",旅者之智
+"Entwined Realities",虛實交織
 "The Unseen Path",未見之道
 "Harmony Within",心宇和諧
 "Converging Paths",交錯道途
@@ -3600,8 +3600,8 @@ Oracle,先知
 "Sacred Flow",神聖流向
 "Wisdom of the Maji",聖賢智慧
 "Mirage Deadeye",幻影銳眼
-"Path Seeker",有效補救
-"Path of the Sorceress",澆注瓶
+"Path Seeker",道路探求者
+"Path of the Sorceress",女術者之道
 "Channelling Mastery",引導專精
 "Endurance Charge Mastery",耐力球專精
 "Attack Area of Effect and Accuracy",攻擊範圍效果和命中
@@ -3646,3 +3646,109 @@ Necromantic,死靈掌控
 "Bound Flesh",血肉結合
 "Afarud Ritual",阿法魯德祭儀
 "Bitter Lash",苦澀鞭笞
+"Armour and Slow Effect on You",護甲與你身上的緩速效果
+"Saqawal's Talon",斯卡沃之爪
+"Saqawal's Hide",斯卡沃之羽
+"Mutewind Agility",啞風敏捷
+"Brinerot Ferocity",海盜兇殘
+"Redblade Discipline",紅刃紀律
+"Path of the Renegade",叛徒之路
+"Armour applies to Elemental Damage and Deflection",護甲套用至元素傷害與偏斜
+"Knight of Chitus",奇術之騎士
+"Knight of Tarcus",塔克司之騎士
+"Knight of Izaro",伊澤洛之騎士
+"Evasion and Energy Shield Delay",閃避與能量護盾延遲
+"Deflection and Energy Shield Delay",偏斜與能量護盾延遲
+"First Teachings of the Keeper",守護者的初次教誨
+"First Principle of the Hollow",虛空的第一準則
+"The Hollowkeeper",守虛者
+"Fortified Aegis",護體神盾
+"Barrier of Venarius",維納利斯之障
+"Armour Applies to Elemental Damage and Energy Shield Delay",護甲套用至元素傷害與能量護盾延遲
+"Energy Shield Delay and Armour Applies to Elemental Damage",能量護盾延遲與護甲套用至元素傷害
+"Morgana, the Storm Seer",風暴先知．摩根娜
+"Energy Shield and Armour applies to Elemental Damage Hits",能量護盾與護甲套用至元素擊中傷害
+"Conall the Hunted",受獵者康納爾
+"Voll's Protection",福爾的守護
+"Dominus' Providence",神主的眷顧
+"Bhatair's Storm",瓦特爾的風暴
+"Cirel of Tarth's Light",塔斯的西瑞爾之光
+"The Soul Meridian",靈魂經脈
+"Life Recoup Speed",生命補償速度
+"Left Ventricle",左心室
+"Flow of Time",時間之流
+"Attack and Cast Speed on Critical",暴擊時攻擊與施放速度
+"Minion Life and Minion Revive Speed",召喚物生命和召喚物復甦速度
+Flamekeeper,火焰傷害
+"Rhythm of Fire",烈焰之歌
+"Elemental Damage and Energy Shield Delay",元素傷害與能量護盾延遲
+"Rhythm of Ice",寒霜之歌
+"Ice Storm",冰冷傷害
+"Brain Freeze",冰冷傷害
+"Elemental Damage and Mana Regeneration",元素傷害與魔力回復
+Stormkeeper,閃電傷害
+"Lightning Storm",閃電傷害
+"Brain Storm",閃電傷害
+"Shapeshifting Armour applies to Elemental Damage Hits",變形護甲同時套用至元素擊中傷害
+"Defenses and Companion Life",防禦和盟友生命
+"Bond of the Owl",鴞之羈絆
+"Bond of the Mamba",曼巴之羈絆
+"Bond of the Viper",毒蛇之羈絆
+"Bond of the Wolf",狼之羈絆
+"Bond of the Cat",靈貓之羈絆
+"Evasion and Companion Movement Speed",閃避和盟友移動速度
+"Area Damage and Companion Area of Effect",範圍傷害和盟友影響範圍
+"Attack Damage and Companion Damage as Chaos",攻擊傷害和盟友額外混沌傷害
+"Attack Damage and Companion Damage as Cold",攻擊傷害和盟友額外冰冷傷害
+"Bond of the Ape",猿猴之羈絆
+"Companion Attack Speed",盟友攻擊速度
+"Minion Damage and Command Speed",召喚物傷害和指令速度
+"Minion Damage and Command Skill Cooldown",召喚物傷害和指令技能冷卻時間
+"Archon of Undeath",亡靈統治者
+"Embodiment of Death",死亡的化身
+"Evasion while Moving",移動時閃避
+"The Quick Fox",迅捷飛狐
+"Puppet Master chance",魁儡大師機率
+"Desert's Scorn",沙漠之蔑
+"Bastion of Light",光明壁壘
+"Storm's Rebuke",風暴之責
+"Grace of the Ancestors",先祖優雅
+Paragon,模範
+"Lord of the Squall",狂颮之主
+"Growing Peril",危境增長
+"Dark Entropy",黑暗無序
+"Zarokh's Gift",澤洛克之贈
+"Augmented Flesh",增幅血肉
+"Kaom's Blessing",岡姆之祝
+"Mystic Avalanche",神幻雪崩
+"Replenishing Horde",群集復甦
+"Magnum Opus",巨著
+Dominion,統御
+"Thaumaturgic Generator",奇術發動機
+Unfettered,無束
+"Spirit Walker",靈魂行者
+"Skill Speed and Area of Effect",技能速度和範圍效果
+"Phased Form",迷蹤形態
+"Essence of Virtue",結晶美德
+"Additional Power Charge Chance",額外暴擊球機率
+"Martial Adept",武術精通
+"Martial Master",武術宗師
+"Hollow Focus Technique",空無專注之技
+"Hollow Resonance Technique",空無共鳴之技
+"Runic Meridians",符文子午線
+"Way of the Mountain",山巒之道
+"Hollow Form Technique",空無型態之技
+"Way of the Stonefist",石拳之道
+"Archon of Chayula",夏烏拉統治者
+"Shared Companion Damage",共享盟友速度
+"Companion Life and Area",盟友生命和範圍
+"Vivid Stampede",靈現奔竄
+"The Mórrigan's Guidance",莫里根的指引
+"Wild Protector",荒野守護
+"The Catha's Balance",凱莎的平衡
+"Primal Bounty",原始賞金
+"The Mhacha's Gift",姆哈查之贈
+"The Natural Order",自然秩序
+Idolatry,偶像崇敬
+"Sacred Unity",神聖一統
+"[SinisterJewelSockets|Sinister] [Jewel] Socket",[SinisterJewelSockets|不祥][Jewel|珠寶]插槽
