@@ -1104,10 +1104,17 @@ Are you in dodge roll?,你是否处于翻滚闪避状态?
 Do your hits always Heavy Stun?,你的击中是否总是造成沉重眩晕?
 Reserved Darkness:,保留的黑暗值(夏乌拉侍僧):
 Elemental Resistance penalty:,元素抗性惩罚:
+
 Cooldown calculation mode:,冷却时间计算模式:
 "Controls how the cooldown for skills is calculated:",控制技能冷却时间的计算方式:
 "	Base: The cooldown is calculated with normal behavior.",    基础模式:冷却时间按照正常行为计算.
 "	Average: The cooldown is adjusted to reflect the average time between uses, factoring in effects such as a chance to not consume a cooldown.",    平均模式:冷却时间被调整为技能使用间隔的平均时间，并考虑概率不消耗冷却时间等效果.
+
+boosted calc mode:,先祖强化计算模式
+"Controls how ancestrally boosted attacks are calculated:",先祖强化攻击的计算方式:
+"Average: Averages out Boost usage with cast time, attack speed and cooldown.",平均值模式：根据施法时间、攻击速度和冷却时间，平均计算先祖强化的使用频率。
+"Max Hit: Shows maximum hit for lining up all sources of ancestral boost.",最大击中模式：显示在叠加所有先祖强化来源时可达到的最大单次击中伤害。
+
 Disable EHP gain on block/suppress:,禁用格挡/压制时的生命值获取
 Sets the EHP calc to not apply gain on block and suppress effects,有效生命值的计算不再考虑格挡和压制时的获取
 Distance to enemy:,与敌人的距离:
@@ -1117,18 +1124,28 @@ Is the Bleed Aggravated?,该流血是否已被恶化加剧?
 Is enemy Armour Broken?,敌人是否被破甲?
 # of Broken Armour on enemy (if not maximum):,敌人被破坏的护甲:
 "Use this field to set a custom Armour Break value.",设置自定义的护甲破坏值
-"If left empty or set to 0, Fully Broken Armour will be assumed.",如果留空或设置为0,将假定护甲已被完全破坏
-"Armour cannot be broken below 0 unless stated otherwise.",除非另有说明,否则护甲不能被击破至0以下
+"If left empty or set to 0, Fully Broken Armour will be assumed.","如果留空或设置为0,将假定护甲已被完全破坏"
+"Armour cannot be broken below 0 unless stated otherwise.","除非另有说明,否则护甲不能被击破至0以下"
 Is the enemy Dazed?,敌人是否被目眩?
 Is the enemy Pinned?,敌人是否被钉身?
 Is the enemy Immobilised?,敌人是否被禁锢?
 Is the enemy Heavy Stunned?,敌人是否被沉重眩晕?
 Is the enemy Critically Weak,敌人是否有暴击弱点?
 Critically weakness stacks:,暴击弱点层数:
-Does enemy have Open Weakness?,敌人是否有暴露弱点(亚马逊)？
+Does enemy have Open Weakness?,敌人是否有暴露弱点(亚马逊)?
 Enemy Open Weakness Presence?,存在范围内是否有带有暴露弱点(亚马逊)的敌人?
 # of Bleeds on enemy (if not average):,敌人身上的流血层数:
 # of incision Stacks:,敌人身上的切割层数:
 # of Poisons on enemy (if not average):,敌人身上的中毒层数:
 Quest Rewards,剧情章节奖励
 Endgame (-60%),终局(-60%)
+Currently Shapeshifted?,是否处于变形状态?
+Current ^x88FFFFEnergy Shield^7 percentage:,当前^x88FFFF能量护盾^7百分比:
+"Used in calculations for ^xAF6025Silks of Veneration^7 and ^xAF6025The Mutable Star^7.","用于计算^xAF6025崇敬之丝 启蒙长袍^7和^xAF6025多变之星 教士法衣^7。"
+"Overflowed ^x88FFFFEnergy Shield^7 is allowed, up to 150%.","允许溢出的^x88FFFF能量护盾^7,最高可达150%"
+Eldritch Empowerment:,异能赋予(巫妖升华):
+Are you Sacrificing?,是否具有牺牲效果?
+Sacrifice 5% ^x88FFFFEnergy Shield^7 when you cast a Spell to give that Spell 30% more Damage.,施法时牺牲 5% 的^x88FFFF能量护盾^7，使该法术造成 30% 更多伤害。
+Power of Culled Enemy?,被终结敌人的强度?
+
+Unique enemies always have 20 Power.,传奇敌人总是拥有 20 点强度。
